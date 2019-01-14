@@ -1,0 +1,18 @@
+{
+  "containerId": "5c3cfe5db7dfb7f460ff4de0",
+  "title": "Constructor",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "5c3cfe9eb7dfb7f460ff4de1",
+  "type": "CodeStage",
+  "language": "solidity",
+  "languageVersion": "0.4.19",
+  "testFramework": "truffle_with_mocha",
+  "codeFileIds": [
+    "5c3cfe9eb7dfb7f460ff4de2",
+    "5c3cfe9eb7dfb7f460ff4de3"
+  ],
+  "position": 0,
+  "completionMessage": "$$LOOKUP"
+}

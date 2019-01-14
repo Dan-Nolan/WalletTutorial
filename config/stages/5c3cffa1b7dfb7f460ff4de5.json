@@ -1,0 +1,17 @@
+{
+  "containerId": "5c3cfe5db7dfb7f460ff4de0",
+  "title": "Withdraw",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "5c3cffa1b7dfb7f460ff4de5",
+  "type": "CodeStage",
+  "language": "solidity",
+  "languageVersion": "0.4.19",
+  "testFramework": "truffle_with_mocha",
+  "codeFileIds": [
+    "5c3cffa1b7dfb7f460ff4de6",
+    "5c3cffa1b7dfb7f460ff4de7"
+  ],
+  "position": 1
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Wallet Tutorial",
+  "id": "5c3cfe5db7dfb7f460ff4ddf",
+  "containerType": "Lesson",
+  "description": "This tutorial is going to teach someone how to make a Solidity wallet",
+  "thumbnailUrl": null,
+  "productionReady": true,
+  "estimatedTime": 60
+}
